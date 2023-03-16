@@ -1,0 +1,6 @@
+print (" nama = Fiki Anreano Siagian ")
+print (" NIM = I0322045")
+print (" saya berasal dari medan menurut saya medan itu tempatnya jauh berbeda dengan dari solo dimulai dari lalu lintasnya, makanannya, suasananya disiang dan malam hari.")
+print (" lalu lintas di medan sangat berbeda dengan solo dimedan masih banyak orang yang tidak taat pada aturan berlalu lintas terutama pengendara sepeda motor mulai dari tidak memakai helm dan masih banyak lagi.")
+print (" disamping hal itu pada malam hari di medan wisata kulinernya sangat banyak dan dari yang saya rasakan rasa makanan di medan lebih pedas jika dibandingkan dengan makanan di solo. ")
+print (" harapan saya setelah lulus dari fakultas teknik industri saya berharap bahwa ilmu yang telah saya pelajarin dapat berguna untuk orang banyak serta memudahkan saya dalam pekerjaan.")
